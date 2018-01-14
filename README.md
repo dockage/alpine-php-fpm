@@ -1,4 +1,4 @@
-# alpine-php-fpm [![Docker Pulls](https://img.shields.io/docker/pulls/dockage/alpine-php-fpm.svg)](https://hub.docker.com/r/dockage/alpine-php-fpm/) [![Docker Stars](https://img.shields.io/docker/stars/dockage/alpine-php-fpm.svg?style=flat)](https://hub.docker.com/r/dockage/alpine-php-fpm/) [![MicroBadger](https://images.microbadger.com/badges/image/dockage/alpine-php-fpm:3.7.svg)](https://microbadger.com/images/dockage/alpine-php-fpm:3.7) [![Docker Build Status](https://img.shields.io/docker/build/dockage/alpine-php-fpm.svg)](https://hub.docker.com/r/dockage/alpine-php-fpm/) [![Docker Automated build](https://img.shields.io/docker/automated/dockage/alpine-php-fpm.svg)](https://hub.docker.com/r/dockage/alpine-php-fpm/)
+# alpine-php-fpm [![Docker Pulls](https://img.shields.io/docker/pulls/dockage/alpine-php-fpm.svg)](https://hub.docker.com/r/dockage/alpine-php-fpm/) [![Docker Stars](https://img.shields.io/docker/stars/dockage/alpine-php-fpm.svg?style=flat)](https://hub.docker.com/r/dockage/alpine-php-fpm/) [![MicroBadger](https://images.microbadger.com/badges/image/dockage/alpine-php-fpm:3.6.svg)](https://microbadger.com/images/dockage/alpine-php-fpm:3.6) [![Docker Build Status](https://img.shields.io/docker/build/dockage/alpine-php-fpm.svg)](https://hub.docker.com/r/dockage/alpine-php-fpm/) [![Docker Automated build](https://img.shields.io/docker/automated/dockage/alpine-php-fpm.svg)](https://hub.docker.com/r/dockage/alpine-php-fpm/)
 FPM (FastCGI Process Manager) is an alternative PHP FastCGI implementation with some additional features (mostly) useful for heavy-loaded sites.
 
 ## Contributing
@@ -29,7 +29,7 @@ Automated builds of the image are available on [Dockerhub](https://hub.docker.co
 > **Note**: Builds are also available on [Quay.io](https://quay.io/repository/dockage/alpine-php-fpm)
 
 ```bash
-docker pull dockage/alpine-php-fpm:3.7
+docker pull dockage/alpine-php-fpm:3.6
 ```
 
 Alternatively you can build the image yourself.

@@ -1,4 +1,4 @@
-FROM dockage/alpine-confd:3.7
+FROM dockage/alpine-confd:3.6
 MAINTAINER Mohammad Abdoli Rad <m.abdolirad@gmail.com>
 
 LABEL org.label-schema.name="alpine-php-fpm" \
