@@ -58,3 +58,10 @@ Below is the complete list of available options that can be used to customize yo
 | `PHP_FPM_PM_MIN_SPARE_SERVERS` | `/php-fpm/pm/min_spare_servers` | The desired minimum number of idle server processes. **Note:** Used only when pm is set to `dynamic`. **Note:** Mandatory when pm is set to `dynamic`. Defaults to `1`. |
 | `PHP_FPM_PM_MAX_SPARE_SERVERS` | `/php-fpm/pm/max_spare_servers` | The desired maximum number of idle server processes. **Note:** Used only when pm is set to `dynamic`. **Note:** Mandatory when pm is set to `dynamic`. Defaults to `3`. |
 | `PHP_FPM_PM_MAX_REQUESTS` | `/php-fpm/pm/max_requests` | The number of requests each child process should execute before respawning. Defaults to `0`. |
+
+## Quick reference
+* Where to get help: [website](https://dockage.dev/), [documentation](https://dockage.dev/docs/)
+* GitHub repo: [dockage/alpine-php-fpm](https://github.com/dockage/alpine-php-fpm)
+* Where to file issues: [GitHub issues](https://github.com/dockage/alpine-php-fpm/issues)
+* Maintained by: The Dockage team (info at dockage.dev)
+* License(s) - [license](https://github.com/dockage/alpine-php-fpm/blob/main/LICENSE), check 3rd party documentation for license information
